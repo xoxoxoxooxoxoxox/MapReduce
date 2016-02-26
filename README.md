@@ -1,5 +1,5 @@
 # MapReduce
-MapReduce Applications
+MapReduce Application
 
 This repository contains two MapReduce applications, calucating variance and finding friend connections.
 
