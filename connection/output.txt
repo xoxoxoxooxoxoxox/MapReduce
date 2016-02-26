@@ -1,0 +1,8 @@
+["john", "steve", "bill"]
+["lisa", "mary", "steve"]
+["bill", "mary", "steve"]
+["bill", "lisa", "steve"]
+["bill", "mary", "john"]
+["david", "john", "mary"]
+["john", "steve", "mary"]
+["david", "steve", "mary"]
