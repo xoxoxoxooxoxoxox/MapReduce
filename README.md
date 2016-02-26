@@ -1,7 +1,6 @@
 # MapReduce
-MapReduce Application - Variance
+MapReduce Applications
 
-Given provided with a large number of integers, pre-divided into chunks, 
-with each chunk stored as a line (an JSON array) in the input file. 
+This repository contains two MapReduce applications, calucating variance and finding friend connections.
 
-Variance.py task is to compute the variance of the integers using MapReduce.py framework.
+Each of the folder contains application_name.py, test_file.json and output_result.txt. I am welcome to open up any comments and feedbacks!
